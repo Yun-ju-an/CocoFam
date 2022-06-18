@@ -22,11 +22,14 @@
 
 ## 학습자료
 
-사용한 Tool로는 EXPO
-![expo](https://user-images.githubusercontent.com/67059713/174424227-2ea9bb82-89d3-4d23-87bf-462e95049214.png)
+사용한 Tool로는
+
+EXPO
+<엑스포사진 src="https://user-images.githubusercontent.com/67059713/174425294-54553487-97b1-430d-a48f-1144d5ea9dfc.png" width="200" height="400"/>
 
 
 VISUAL STUDIO
+<Visual_Studio_Icon_2019 svg src="https://user-images.githubusercontent.com/67059713/174425216-0d61a04f-44d6-44d8-b02f-c167c7bf38f0.png" width="200" height="400"/>
 
 
 
@@ -35,8 +38,6 @@ https://nomadcoders.co/react-native-for-beginners/lobby
 
 웹 사이트 제작 관련 학습 자료 - 조코딩
 https://www.youtube.com/c/%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding
-
-
 
 
 
