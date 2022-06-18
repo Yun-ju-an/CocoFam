@@ -1,8 +1,12 @@
-# 2022 꿈다락 - CocoFam 👴
+# 2022 꿈다락 - CocoFam 
 
 #### Project Nickname : CocoFam
 #### Project Execution period : 2022.04.~2022.12
 -----------------------
+
+
+
+
 ## Description
 
 코코팸 프로젝트는 2022년 홍제동 청소년 활동공간 꿈다락 코딩봉사단에서 시작한 프로젝트로 청소년들을 위한 홈페이지/어플리케이션 개발을 한다
@@ -14,9 +18,12 @@
 
 
 
+
+
 ## 학습자료
 
 사용한 Tool로는 EXPO
+![expo](https://user-images.githubusercontent.com/67059713/174424227-2ea9bb82-89d3-4d23-87bf-462e95049214.png)
 
 
 VISUAL STUDIO
@@ -31,11 +38,14 @@ https://www.youtube.com/c/%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding
 
 
 
+
+
+
 ## 역할배분
 
 #### 팀장: 손유진 (html,css)
-#### 서기: 윤주안 (Backend)
-#### 팀원: 임현지 (???)
+#### 서기: 윤주안 (Back end)
+#### 팀원: 임현지 (Front end, )
 #### 팀원: 하휘찬 (html,css)
 
 
