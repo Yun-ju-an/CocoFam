@@ -16,7 +16,12 @@
 
 ## 학습자료
 
-사용한 툴로는 EXPO, VISUAL STUDIO
+사용한 Tool로는 EXPO
+![expo](https://user-images.githubusercontent.com/67059713/174424186-56c6cae0-1af0-4e98-8f80-9b64e48b4087.png)
+
+VISUAL STUDIO
+![Visual_Studio_Icon_2019 svg](https://user-images.githubusercontent.com/67059713/174424188-311de90f-e205-4f9b-b13c-e7261961678f.png)
+
 
 React Native 관련 학습자료 - nomadcoders
 https://nomadcoders.co/react-native-for-beginners/lobby
