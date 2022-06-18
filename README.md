@@ -12,6 +12,8 @@
 홈페이지에는 청소년이 직접 만들어가는 게시판 기능
 부가적인 기능으로 꿈다락 게임 및 심리테스트를 구현한다
 
+
+
 ## 학습자료
 
 사용한 툴로는 EXPO, VISUAL STUDIO
@@ -21,6 +23,15 @@ https://nomadcoders.co/react-native-for-beginners/lobby
 
 웹 사이트 제작 관련 학습 자료 - 조코딩
 https://www.youtube.com/c/%EC%A1%B0%EC%BD%94%EB%94%A9JoCoding
+
+
+
+## 역할배분
+
+#### 팀장: 손유진 (html,css)
+#### 서기: 윤주안 (Backend)
+#### 팀원: 임현지 (???)
+#### 팀원: 하휘찬 (html,css)
 
 
 
