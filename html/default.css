@@ -170,8 +170,8 @@ img.right {
 
 #logo {
 	float: left;
-	width: 480px;
-	height: 100px;
+	width: 240px;
+	height: 50px;
 }
 
 #logo h1 {
@@ -209,11 +209,11 @@ img.right {
 #menu a {
 	display: block;
 	float: left;
-	width: 120px;
+	width: 240px;
 	height: 30px;
 	margin-left: 2px;
 	padding-top: 10px;
-	background: url(images/img02.gif) no-repeat;
+	background: url(images/img02.gif) repeat;
 	text-decoration: none;
 	text-align: center;
 	font-weight: bold;
